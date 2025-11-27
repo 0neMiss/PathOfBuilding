@@ -70,8 +70,7 @@ The Formless Flame
 {variant:1,2}Siege Helmet
 {variant:3}Royal Burgonet
 League: Breach
-Source: Drops in Xoph Breach or from unique{Xoph, Dark Embers}
-Upgrade: Upgrades to unique{The Formless Inferno} using currency{Blessing of Xoph}
+Source: Drops in Xoph Breach or from unique{Xoph, Dark Embers}. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Variant: Pre 3.16.0
 Variant: Pre 3.21.0
 Variant: Current
@@ -88,7 +87,7 @@ Requires Level 48, 101 Str
 The Formless Inferno
 Royal Burgonet
 League: Breach
-Source: Upgraded from unique{The Formless Flame} using currency{Blessing of Xoph}
+Source: Has a chance to drop from unique{Xoph, Dark Embers} in the flawless breachstone version of the encounter. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Variant: Pre 3.16.0
 Variant: Pre 3.21.0
 Variant: Current
@@ -257,10 +256,10 @@ Replica Heatshiver
 Leather Hood
 League: Heist
 Source: Steal from a unique{Curio Display} during a Grand Heist
-(80–100)% increased Evasion Rating
+(80?100)% increased Evasion Rating
 60% increased Mana Regeneration Rate
-+(20–30)% to Cold Resistance
-+(20–30)% to Lightning Resistance
++(20?30)% to Cold Resistance
++(20?30)% to Lightning Resistance
 Gain 1% of Lightning Damage as Extra Cold Damage per 2% Shock Effect on Enemy
 ]],[[
 Frostferno
@@ -937,8 +936,8 @@ The Devourer of Minds
 Pig-Faced Bascinet
 Source: Drops from unique{The Elder} (Uber Uber)
 Requires Level 63, 85 Str, 62 Dex
-+(30–50) to Intelligence
-(80–120)% increased Armour and Evasion
++(30?50) to Intelligence
+(80?120)% increased Armour and Evasion
 +1 to Level of all Minion Skill Gems
 25% increased Light Radius
 Minions have the same maximum number of Endurance, Frenzy and Power Charges as you

@@ -459,8 +459,7 @@ Crucible Passive Skill Tree is removed if this Modifier is removed
 ]],[[
 Severed in Sleep
 Cutlass
-Source: Drops in Chayula Breach or from unique{Chayula, Who Dreamt}
-Upgrade: Upgrades to unique{United in Dream} using currency{Blessing of Chayula}
+Source: Drops in Chayula Breach or from unique{Chayula, Who Dreamt}. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Variant: Pre 2.6.0
 Variant: Pre 3.0.0
 Variant: Pre 3.21.0
@@ -482,7 +481,7 @@ Implicits: 2
 ]],[[
 United in Dream
 Cutlass
-Source: Upgraded from unique{Severed in Sleep} using currency{Blessing of Chayula}
+Source: Has a chance to drop from unique{Chayula, Who Dreamt} in the flawless breachstone version of the encounter. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Variant: Pre 2.6.0
 Variant: Pre 3.0.0
 Variant: Pre 3.16.0

@@ -778,7 +778,7 @@ function buildKeystoneItems(keystoneMap)
 		"Skin of the Lords",
 		"Simple Robe",
 		"League: Breach",
-		"Source: Upgraded from unique{Skin of the Loyal} using currency{Blessing of Chayula}",
+		"Source: Has a chance to drop from unique{Chayula, Who Dreamt} in the flawless breachstone version of the encounter. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.",
 	}
 	local excludedPassiveKeystones = {
 		"Chaos Inoculation", -- to prevent infinite loop

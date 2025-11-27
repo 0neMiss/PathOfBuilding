@@ -22,8 +22,7 @@ You have Onslaught while at maximum Endurance Charges
 The Anticipation
 Ezomyte Tower Shield
 League: Breach
-Source: Drops in Uul-Netol Breach or from unique{Uul-Netol, Unburdened Flesh}
-Upgrade: Upgrades to unique{The Surrender} using currency{Blessing of Uul-Netol}
+Source: Drops in Uul-Netol Breach or from unique{Uul-Netol, Unburdened Flesh}. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses
 Variant: Pre 3.0.0
 Variant: Pre 3.21.0
 Variant: Current
@@ -40,7 +39,7 @@ Permanently Intimidate Enemies on Block
 The Surrender
 Ezomyte Tower Shield
 League: Breach
-Source: Upgraded from unique{The Anticipation} using currency{Blessing of Uul-Netol}
+Source: Has a chance to drop from unique{Uul-Netol, Unburdened Flesh} in the flawless breachstone version of the encounter. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Variant: Pre 3.0.0
 Variant: Pre 3.21.0
 Variant: Pre 3.25.0
@@ -546,8 +545,7 @@ Esh's Mirror
 Variant: Pre 3.21.0
 Variant: Current
 League: Breach
-Source: Drops in Esh Breach or from unique{Esh, Forked Thought}
-Upgrade: Upgrades to unique{Esh's Visage} using currency{Blessing of Esh}
+Source: Drops in Esh Breach or from unique{Esh, Forked Thought}. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Implicits: 1
 {variant:2}(5-10)% increased Spell Damage
 +(20-30) to Intelligence
@@ -562,7 +560,7 @@ Adds 1 to 10 Lightning Damage for each Shocked Enemy you've Killed Recently
 Esh's Visage
 Vaal Spirit Shield
 League: Breach
-Source: Upgraded from unique{Esh's Mirror} using currency{Blessing of Esh}
+Source: Has a chance to drop from unique{Esh, Forked Thought} in the flawless breachstone version of the encounter. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Variant: Pre 3.0.0
 Variant: Pre 3.16.0
 Variant: Current
@@ -753,7 +751,7 @@ League: Affliction
 Requires Level 39, 52 Str, 52 Dex
 Implicits: 1
 180% increased Block Recovery
-(100–150)% increased Armour and Evasion
+(100?150)% increased Armour and Evasion
 +15% Chance to Block
 You take 100% of Elemental Damage from Blocked Hits
 40% of Elemental Damage from Hits taken as Physical Damage

@@ -45,8 +45,7 @@ The Infinite Pursuit
 Variant: Pre 3.21.0
 Variant: Current
 League: Breach
-Source: Drops in Uul-Netol Breach or from unique{Uul-Netol, Unburdened Flesh}
-Upgrade: Upgrades to unique{The Red Trail} using currency{Blessing of Uul-Netol}
+Source: Drops in Uul-Netol Breach or from unique{Uul-Netol, Unburdened Flesh}. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Requires Level 54, 95 Str
 {variant:1}+(30-60) to maximum Life
 20% increased Movement Speed
@@ -63,7 +62,7 @@ Titan Greaves
 Variant: Pre 3.21.0
 Variant: Current
 League: Breach
-Source: Upgraded from unique{The Infinite Pursuit} using currency{Blessing of Uul-Netol}
+Source: Has a chance to drop from unique{Uul-Netol, Unburdened Flesh} in the flawless breachstone version of the encounter. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Requires Level 68, 120 Str
 {variant:1}(60-80)% increased Armour
 {variant:2}(60-100)% increased Armour

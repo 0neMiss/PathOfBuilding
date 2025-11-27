@@ -386,8 +386,7 @@ Uul-Netol's Kiss
 Variant: Pre 3.21.0
 Variant: Current
 League: Breach
-Source: Drops in Uul-Netol Breach or from unique{Uul-Netol, Unburdened Flesh}
-Upgrade: Upgrades to unique{Uul-Netol's Embrace} using currency{Blessing of Uul-Netol}
+Source: Drops in Uul-Netol Breach or from unique{Uul-Netol, Unburdened Flesh}. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Implicits: 1
 {variant:2}25% chance to Maim on Hit
 {variant:1}(140-170)% increased Physical Damage
@@ -402,7 +401,7 @@ Implicits: 1
 Uul-Netol's Embrace
 Vaal Axe
 League: Breach
-Source: Upgraded from unique{Uul-Netol's Kiss} using currency{Blessing of Uul-Netol}
+Source: Has a chance to drop from unique{Uul-Netol, Unburdened Flesh} in the flawless breachstone version of the encounter. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Variant: Pre 3.11.0
 Variant: Pre 3.21.0
 Variant: Current

@@ -403,7 +403,7 @@ Implicits: 1
 ]],[[
 Eye of Chayula
 Onyx Amulet
-Upgrade: Upgrades to unique{Presence of Chayula} using currency{Blessing of Chayula}
+Source: Has a chance to drop from unique{Chayula, Who Dreamt} in the flawless breachstone version of the encounter. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.",
 Requires Level 20
 Implicits: 1
 {tags:jewellery_attribute}+(10-16) to all Attributes
@@ -414,7 +414,7 @@ Cannot be Stunned
 Presence of Chayula
 Onyx Amulet
 League: Breach
-Source: Upgraded from unique{Eye of Chayula} using currency{Blessing of Chayula}
+Source: Has a chance to drop from unique{Chayula, Who Dreamt} in the flawless breachstone version of the encounter. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Requires Level 60
 Implicits: 1
 {tags:jewellery_attribute}+(10-16) to all Attributes
@@ -555,8 +555,7 @@ Jade Amulet
 Variant: Pre 3.21.0
 Variant: Current
 League: Breach
-Source: Drops in Tul Breach or from unique{Tul, Creeping Avalanche}
-Upgrade: Upgrades to unique{The Pandemonius} using currency{Blessing of Tul}
+Source: Drops in Tul Breach or from unique{Tul, Creeping Avalanche}. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Requires Level 35
 Implicits: 1
 {tags:jewellery_attribute}+(20-30) to Dexterity
@@ -570,7 +569,7 @@ Implicits: 1
 The Pandemonius
 Jade Amulet
 League: Breach
-Source: Upgraded from unique{The Halcyon} using currency{Blessing of Tul}
+Source: Has a chance to drop from unique{Tul, Creeping Avalanche} in the flawless breachstone version of the encounter. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Requires Level 64
 Implicits: 1
 {tags:jewellery_attribute}+(20-30) to Dexterity
@@ -1136,7 +1135,7 @@ Corrupted
 ]],[[
 Uul-Netol's Vow
 Unset Amulet
-Source: Drops from unique{Breachlord} in a normal{Flawless Breachstone}
+Source: Drops from unique{It That Was Esh} and unique{It That Was Tul} in normal{Hive Colony}
 Requires Level 72
 Implicits: 1
 Has 1 Socket
@@ -1162,8 +1161,7 @@ Implicits: 1
 Voice of the Storm
 Lapis Amulet
 League: Breach
-Source: Drops in Esh Breach or from unique{Esh, Forked Thought}
-Upgrade: Upgrades to unique{Choir of the Storm} using currency{Blessing of Esh}
+Source: Drops in Esh Breach or from unique{Esh, Forked Thought}. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Variant: Pre 3.16.0
 Variant: Pre 3.21.0
 Variant: Current
@@ -1181,7 +1179,7 @@ Implicits: 1
 Choir of the Storm
 Lapis Amulet
 League: Breach
-Source: Upgraded from unique{Voice of the Storm} using currency{Blessing of Esh}
+Source: Has a chance to drop from unique{Esh, Forked Thought} in the flawless breachstone version of the encounter.. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Variant: Pre 3.0.0
 Variant: Pre 3.16.0
 Variant: Pre 3.21.0
@@ -1279,8 +1277,7 @@ Amber Amulet
 Variant: Pre 3.21.0
 Variant: Current
 League: Breach
-Source: Drops in Xoph Breach or from unique{Xoph, Dark Embers}
-Upgrade: Upgrades to unique{Xoph's Blood} using currency{Blessing of Xoph}
+Source: Drops in Xoph Breach or from unique{Xoph, Dark Embers}. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses grasping coffers in hive fortresses.
 Requires Level 35
 Implicits: 1
 {tags:jewellery_attribute}+(20-30) to Strength
@@ -1294,7 +1291,7 @@ Implicits: 1
 Xoph's Blood
 Amber Amulet
 League: Breach
-Source: Upgraded from unique{Xoph's Heart} using currency{Blessing of Xoph}
+Source: Has a chance to drop from unique{Xoph, Dark Embers} in the flawless breachstone version of the encounter. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Requires Level 64
 Implicits: 1
 {tags:jewellery_attribute}+(20-30) to Strength

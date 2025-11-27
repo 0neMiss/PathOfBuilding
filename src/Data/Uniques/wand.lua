@@ -354,8 +354,7 @@ Variant: Pre 3.16.0
 Variant: Pre 3.21.0
 Variant: Current
 League: Breach
-Source: Drops in Tul Breach or from unique{Tul, Creeping Avalanche}
-Upgrade: Upgrades to unique{Tulfall} using currency{Blessing of Tul}
+Source: Drops in Tul Breach or from unique{Tul, Creeping Avalanche}. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Implicits: 2
 {variant:1,2}(15-19)% increased Spell Damage
 {variant:3}Adds (14-29) to (42-47) Cold Damage to Spells and Attacks
@@ -374,7 +373,7 @@ Variant: Pre 3.16.0
 Variant: Pre 3.21.0
 Variant: Current
 League: Breach
-Source: Upgraded from unique{Tulborn} using currency{Blessing of Tul}
+Source: Has a chance to drop from unique{Tul, Creeping Avalanche} in the flawless breachstone version of the encounter. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses
 Implicits: 2
 {variant:1,2}(35-39)% increased Spell Damage
 {variant:3}Adds (14-29) to (42-47) Cold Damage to Spells and Attacks

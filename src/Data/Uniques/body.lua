@@ -407,8 +407,7 @@ The Snowblind Grace
 {variant:1,2}Coronal Leather
 {variant:3}Zodiac Leather
 League: Breach
-Source: Drops in Tul Breach or from unique{Tul, Creeping Avalanche}
-Upgrade: Upgrades to unique{The Perfect Form} using currency{Blessing of Tul}
+Source: Drops in Tul Breach or from unique{Tul, Creeping Avalanche}. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Variant: Pre 3.16.0
 Variant: Pre 3.21.0
 Variant: Current
@@ -429,7 +428,7 @@ Implicits: 0
 The Perfect Form
 Zodiac Leather
 League: Breach
-Source: Upgraded from unique{The Snowblind Grace} using currency{Blessing of Tul}
+Source: Has a chance to drop from unique{Tul, Creeping Avalanche} in the flawless breachstone version of the encounter. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses
 Variant: Pre 3.16.0
 Variant: Pre 3.21.0
 Variant: Current
@@ -701,8 +700,7 @@ Chaos Damage does not bypass Energy Shield
 Skin of the Loyal
 Simple Robe
 League: Breach
-Source: Drops in Chayula Breach or from unique{Chayula, Who Dreamt}
-Upgrade: Upgrades to unique{Skin of the Lords} using currency{Blessing of Chayula}
+Source: Drops in Chayula Breach or from unique{Chayula, Who Dreamt}. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Implicits: 0
 Sockets cannot be modified
 +1 to Level of Socketed Gems

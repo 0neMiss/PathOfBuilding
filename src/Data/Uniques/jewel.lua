@@ -40,8 +40,7 @@ Cobalt Jewel
 Variant: Pre 3.21.0
 Variant: Current
 League: Breach
-Source: Drops in Chayula Breach or from unique{Chayula, Who Dreamt}
-Upgrade: Upgrades to unique{The Blue Nightmare} using currency{Blessing of Chayula}
+Source: Drops in Chayula Breach or from unique{Chayula, Who Dreamt}. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Radius: Large
 {variant:1}Gain 5% of Lightning Damage as Extra Chaos Damage
 {variant:2}Gain (6-10)% of Lightning Damage as Extra Chaos Damage
@@ -53,7 +52,7 @@ Cobalt Jewel
 Variant: Pre 3.21.0
 Variant: Current
 League: Breach
-Source: Upgraded from unique{The Blue Dream} using currency{Blessing of Chayula}
+Source: Has a chance to drop from unique{Chayula, Who Dreamt} in the flawless breachstone version of the encounter. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Limited to: 1
 Radius: Large
 {variant:1}Gain 5% of Lightning Damage as Extra Chaos Damage
@@ -260,8 +259,7 @@ Viridian Jewel
 Variant: Pre 3.21.0
 Variant: Current
 League: Breach
-Source: Drops in Chayula Breach or from unique{Chayula, Who Dreamt}
-Upgrade: Upgrades to unique{The Green Nightmare} using currency{Blessing of Chayula}
+Source: Drops in Chayula Breach or from unique{Chayula, Who Dreamt}. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Radius: Large
 {variant:1}Gain 5% of Cold Damage as Extra Chaos Damage
 {variant:2}Gain (6-10)% of Cold Damage as Extra Chaos Damage
@@ -274,7 +272,7 @@ Variant: Pre 3.16.0
 Variant: Pre 3.21.0
 Variant: Current
 League: Breach
-Source: Upgraded from unique{The Green Dream} using currency{Blessing of Chayula}
+Source: Has a chance to drop from unique{Chayula, Who Dreamt} in the flawless breachstone version of the encounter. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Limited to: 1
 Radius: Large
 {variant:1,2}Gain 5% of Cold Damage as Extra Chaos Damage
@@ -627,8 +625,7 @@ League: Heist
 The Red Dream
 Crimson Jewel
 League: Breach
-Source: Drops in Chayula Breach or from unique{Chayula, Who Dreamt}
-Upgrade: Upgrades to unique{The Red Nightmare} using currency{Blessing of Chayula}
+Source: Drops in Chayula Breach or from unique{Chayula, Who Dreamt}. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Radius: Large
 Variant: Pre 3.21.0
 Variant: Current
@@ -640,7 +637,7 @@ also grant an equal chance to gain an Endurance Charge on Kill
 The Red Nightmare
 Crimson Jewel
 League: Breach
-Source: Upgraded from unique{The Red Dream} using currency{Blessing of Chayula}
+Source: Has a chance to drop from unique{Chayula, Who Dreamt} in the flawless breachstone version of the encounter. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Limited to: 1
 Radius: Large
 Variant: Pre 3.21.0
@@ -1778,8 +1775,8 @@ Variant: Pre 3.25.0
 Variant: Current
 League: Affliction
 Source: Vaal Aspect Combination
-{variant:1}(50–150)% increased Effect of Jewel Socket Passive Skills containing Corrupted Magic Jewels
-{variant:2}(0–100)% increased Effect of Jewel Socket Passive Skills containing Corrupted Magic Jewels
+{variant:1}(50?150)% increased Effect of Jewel Socket Passive Skills containing Corrupted Magic Jewels
+{variant:2}(0?100)% increased Effect of Jewel Socket Passive Skills containing Corrupted Magic Jewels
 ]],
 -- Jewel: Labyrinth rewards
 [[

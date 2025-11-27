@@ -597,8 +597,7 @@ Xoph's Inception
 Variant: Pre 3.21.0
 Variant: Current
 League: Breach
-Source: Drops in Xoph Breach or from unique{Xoph, Dark Embers}
-Upgrade: Upgrades to unique{Xoph's Nurture} using currency{Blessing of Xoph}
+Source: Drops in Xoph Breach or from unique{Xoph, Dark Embers}. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Requires Level 23, 80 Dex
 {variant:1}(70-90)% increased Physical Damage
 {variant:2}(160-190)% increased Physical Damage
@@ -612,7 +611,7 @@ Gain 20% of Physical Damage as Extra Fire Damage
 Xoph's Nurture
 Citadel Bow
 League: Breach
-Source: Upgraded from unique{Xoph's Inception} using currency{Blessing of Xoph}
+Source: Has a chance to drop from unique{Xoph, Dark Embers} in the flawless breachstone version of the encounter. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses.
 Variant: Pre 3.3.0
 Variant: Pre 3.9.0
 Variant: Pre 3.17.0

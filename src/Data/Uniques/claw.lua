@@ -156,8 +156,7 @@ Hand of Thought and Motion
 {variant:1,2,3}Blinder
 {variant:4}Imperial Claw
 League: Breach
-Source: Drops in Esh Breach or from unique{Esh, Forked Thought}
-Upgrade: Upgrades to unique{Hand of Wisdom and Action} using currency{Blessing of Esh}
+Source: Drops in Esh Breach or from unique{Esh, Forked Thought}. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses
 Variant: Pre 2.6.0
 Variant: Pre 3.0.0
 Variant: Pre 3.21.0
@@ -182,7 +181,7 @@ Implicits: 3
 Hand of Wisdom and Action
 Imperial Claw
 League: Breach
-Source: Upgraded from unique{Hand of Thought and Motion} using currency{Blessing of Esh}
+Source: Has a chance to drop from unique{Esh, Forked Thought} in the flawless breachstone version of the encounter.. In Keepers League, it can be obtained from the genesis tree using an ancient wombgift or from grasping coffers in hive fortresses
 Variant: Pre 2.6.0
 Variant: Pre 3.0.0
 Variant: Pre 3.21.0
